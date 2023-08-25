@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @superojla!
 - 👀 I’m interested in technical documentation, especially in docs as code approach, and in different tools for creating and publishing docs.
-- 🌱 I’m currently learning what I can do to make API docs creation process better, how to make software and documentation more accessible, and figuring out how to make content creator's (be it TW, dev, PM...) life easier. I'm also learing Korean as a hobby.
+- 🌱 I’m constantly learning what I can do to improve developer docs, which are my main area of interest. I'm also strongly focused on finding solutions to make content creators' (be it a TW, dev, or PM...) lifes easier. I'm also learing Korean as a hobby.
+- ✨ As a neurodivergent person, I'm a big advocate for accessibility in documentation and software development.
 - 💞️ I’m looking to collaborate on interesting documentation projects :)
 - 📫 How to reach me: @supersowa on Telegram.
 
