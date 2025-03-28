@@ -6,8 +6,6 @@
 
 ✨ As a neurodivergent person, I'm a big advocate for accessibility in documentation and software development.
 
-💞️ I’m looking to collaborate on interesting documentation projects :)
-
 📫 How to reach me: @supersowa on Telegram, justisztyper@gmail.com for emails.
 
 <!---
