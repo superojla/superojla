@@ -1,4 +1,4 @@
-👋 Hi, I’m @superojla!
+👋 Hi, I’m Justi!
 
 👀 I’m interested in technical documentation, especially in docs as code approach, and in different tools for creating and publishing docs.
 
