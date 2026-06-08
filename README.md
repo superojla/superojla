@@ -6,7 +6,7 @@
 
 ✨ As a neurodivergent person, I'm a big advocate for accessibility in documentation and software development.
 
-📫 How to reach me: @supersowa on Telegram, justisztyper@gmail.com for emails.
+📫 How to reach me: @supersowa on Telegram, @superojla.74 on Signal, and justisztyper@gmail.com for emails.
 
 <!---
 superojla/superojla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
